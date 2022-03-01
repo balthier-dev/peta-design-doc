@@ -4,7 +4,7 @@ description: Official Peta Games Design Doc
 
 # 💡 Peta - Games Design Doc
 
-![](<.gitbook/assets/petaland logo.png>)
+![](.gitbook/assets/petaland-01.png)
 
 ### Introduction
 
