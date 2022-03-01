@@ -11,6 +11,7 @@
 * [Character](gameplay/character.md)
 * [Equipment](gameplay/equipment.md)
 * [Life Skill](gameplay/life-skill.md)
+* [Crafting](gameplay/crafting.md)
 * [Combat (PVE/PVP)](gameplay/combat-pve-pvp.md)
 * [Land / Farming](gameplay/land-farming.md)
 
