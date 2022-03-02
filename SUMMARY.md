@@ -6,14 +6,15 @@
 * [Gameplay Style](gameplay-style.md)
 * [Storyline](storyline.md)
 
-## 🎰 Gameplay
+## 🎰 Feature
 
-* [Character](gameplay/character.md)
-* [Equipment](gameplay/equipment.md)
-* [Life Skill](gameplay/life-skill.md)
-* [Crafting](gameplay/crafting.md)
-* [Combat (PVE/PVP)](gameplay/combat-pve-pvp.md)
-* [Land / Farming](gameplay/land-farming.md)
+* [Gameplay](feature/gameplay.md)
+* [Character](feature/character.md)
+* [Equipment](feature/equipment.md)
+* [Life Skill](feature/life-skill.md)
+* [Crafting](feature/crafting.md)
+* [Combat (PVE/PVP)](feature/combat-pve-pvp.md)
+* [Land / Farming](feature/land-farming.md)
 
 ## 🌁 Utility
 
