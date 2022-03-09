@@ -21,8 +21,9 @@
   * [Pet (Upcoming)](feature/character/pet-upcoming.md)
 * [Bank](feature/bank.md)
 * [Market](feature/market.md)
-* [Life Skill](gameplay/life-skill.md)
-* [Crafting](gameplay/crafting.md)
+* [Backsmith](feature/backsmith/README.md)
+  * [Crafting](feature/backsmith/crafting.md)
+  * [Enhancement](feature/backsmith/enhancement.md)
 * [Land (Upcoming)](feature/land-upcoming.md)
 
 ## 🌁 Utility
