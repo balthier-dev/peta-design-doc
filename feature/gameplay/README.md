@@ -11,4 +11,5 @@ PETALAND is เกมที่ถูกออกแบบเป็นแนว S
 
 Phase 1 -Farmville \
 Phase 2 -Farm, -PVE \
-Phase 3 -Farm, -PVE, -PVP
+Phase 3 -Farm, -PVE, -PVP\
+Phase 4 -Farm, -PVE, -PVP, Guildwar
