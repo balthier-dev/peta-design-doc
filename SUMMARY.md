@@ -13,6 +13,7 @@
   * [PVE](feature/gameplay/pve.md)
   * [PVP](feature/gameplay/pvp.md)
   * [Guildwar](feature/gameplay/guildwar.md)
+* [Quest](feature/quest.md)
 * [Character](feature/character/README.md)
   * [Hat](feature/character/hat.md)
   * [Armor](feature/character/armor.md)
