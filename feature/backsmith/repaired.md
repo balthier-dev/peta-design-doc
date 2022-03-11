@@ -4,8 +4,8 @@
 
 Life skill
 
-1. เบ็ด
-2. จอบ
+1. Fishing rod
+2. Mining hoe
 3. Knife
 4. Saw
 
