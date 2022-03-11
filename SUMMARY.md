@@ -22,6 +22,7 @@
 * [Bank](feature/bank.md)
 * [Market](feature/market.md)
 * [Backsmith](feature/backsmith/README.md)
+  * [Repaired](feature/backsmith/repaired.md)
   * [Crafting](feature/backsmith/crafting.md)
   * [Enhancement](feature/backsmith/enhancement.md)
 * [Land (Upcoming)](feature/land-upcoming.md)
