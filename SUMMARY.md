@@ -15,17 +15,13 @@
   * [Guildwar](feature/gameplay/guildwar.md)
 * [Quest](feature/quest.md)
 * [Character](feature/character/README.md)
-  * [Hat](feature/character/hat.md)
-  * [Armor](feature/character/armor.md)
-  * [Weapon](feature/character/weapon.md)
-  * [Accessories](feature/character/accessories.md)
   * [Pet (Upcoming)](feature/character/pet-upcoming.md)
 * [Bank](feature/bank.md)
 * [Market](feature/market.md)
 * [Backsmith](feature/backsmith/README.md)
   * [Repaired](feature/backsmith/repaired.md)
-  * [Crafting](feature/backsmith/crafting.md)
   * [Enhancement](feature/backsmith/enhancement.md)
+* [Crafting](feature/crafting.md)
 * [Land (Upcoming)](feature/land-upcoming.md)
 
 ## 🌁 Utility
