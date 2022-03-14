@@ -20,8 +20,8 @@
 * [Market](feature/market.md)
 * [Backsmith](feature/backsmith/README.md)
   * [Repaired](feature/backsmith/repaired.md)
-  * [Enhancement](feature/backsmith/enhancement.md)
-* [Crafting](feature/crafting.md)
+  * [Enhancement](feature/backsmith/enhancement/README.md)
+    * [Crafting](feature/backsmith/enhancement/crafting.md)
 * [Land (Upcoming)](feature/land-upcoming.md)
 
 ## 🌁 Utility
