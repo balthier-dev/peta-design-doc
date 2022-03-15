@@ -9,9 +9,9 @@
 
 | Rate to harvest | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
 | --------------- | ------ | ------ | ------ | ------ |
-| Level 1         |        |        |        |        |
-| Level 2         |        |        |        |        |
-| Level 3         |        |        |        |        |
+| Level 1         | 100 %  | 0 %    | 0 %    | 0 %    |
+| Level 2         |        |        | 0 %    | 0 %    |
+| Level 3         |        |        |        | 0 %    |
 | Level 4         |        |        |        |        |
 
 
